@@ -1,7 +1,7 @@
 // src/app/dashboard/settings/page.tsx
 // Página de configuración CORREGIDA - Usa el contexto de usuario correcto
 
-'use client'
+'use client';
 
 import { useState, useEffect } from 'react'
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card'

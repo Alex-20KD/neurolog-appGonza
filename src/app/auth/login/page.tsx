@@ -1,7 +1,7 @@
 // src/app/auth/login/page.tsx
 // Página de login actualizada para Supabase v2 y Next.js 15
 
-'use client'
+'use client';
 
 import { useState } from 'react'
 import { useRouter } from 'next/navigation'
