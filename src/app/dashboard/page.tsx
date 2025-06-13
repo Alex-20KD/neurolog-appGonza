@@ -1,7 +1,7 @@
 // src/app/dashboard/page.tsx
 // Dashboard principal ACTUALIZADO con componentes corregidos y diseño responsivo
 
-'use client';
+'use client'
 
 import { useEffect, useState } from 'react';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/components/ui/card';
